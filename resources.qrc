@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>C:/Users/lesha/Desktop/Doodle Jump/background.jpg</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/UFO.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bug_1.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bug_2.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bug_3.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bug_4.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bug_5.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/green_platform.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bunny_doodler.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/bunny_doodler_to_left.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/ninja_doodler.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/ninja_doodler_to_left.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/customize.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/settings.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/samurai_doodler.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/samurai_doodler_to_left.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/brown_platform.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/blue_platform.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/pause_icon.png</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/transparent_background.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>C:/Users/lesha/Desktop/Doodle Jump/Sounds/jump.wav</file>
+        <file>C:/Users/lesha/Desktop/Doodle Jump/Sounds/platform_broke.mp3</file>
+    </qresource>
+</RCC>
